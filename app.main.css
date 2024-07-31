@@ -10541,7 +10541,7 @@ body {
     font-family: KnockoutLiteweight, sans-serif;
     color: #363636;
     font-weight: 400;
-    background-color: #FE6F02;
+    background-color: #FE6F15;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -12946,7 +12946,7 @@ p {
 }
 
 .moving-text-wrapper.yellow h2 {
-    color: #fd0
+    color: #fff
 }
 
 #gotoTop {
@@ -13525,7 +13525,7 @@ div#ccm-menu-click-proxy {
     text-transform: uppercase;
     text-align: center;
     font-family: KnockoutBantamweight, sans-serif;
-    color: #075c40;
+    color: #FE6F02;
     position: relative;
     left: -67px;
     top: -19px
@@ -13539,7 +13539,7 @@ div#ccm-menu-click-proxy {
     margin: 0;
     position: relative;
     left: -25px;
-    color: #075c40;
+    color: #FE6F02;
     z-index: 1;
     opacity: 0
 }
@@ -13558,7 +13558,7 @@ div#ccm-menu-click-proxy {
 }
 
 .about-wrapper .container-fluid .pizza-container h2:nth-of-type(2) {
-    color: #fd0
+    color: #fff
 }
 
 @media only screen and (max-width:768px) {
@@ -13585,7 +13585,7 @@ div#ccm-menu-click-proxy {
 .about-wrapper .container-fluid .pizza-container .img-container .slice1 {
     position: absolute;
     transform: translateX(-50%) rotate(-13deg);
-    left: 38%;
+    left: 25%;
     opacity: 0
 }
 
@@ -13614,7 +13614,7 @@ div#ccm-menu-click-proxy {
 .about-wrapper .container-fluid .pizza-container .img-container .slice2 {
     position: absolute;
     transform: translateX(-50%) rotate(13deg);
-    left: 62%;
+    left: 40%;
     opacity: 0
 }
 
@@ -13794,7 +13794,7 @@ div#ccm-menu-click-proxy {
     text-transform: uppercase;
     line-height: 60px;
     margin: 0;
-    color: #075c40
+    color: #FE6F02
 }
 
 @media only screen and (max-width:540px) {
@@ -13809,7 +13809,7 @@ div#ccm-menu-click-proxy {
     text-transform: uppercase;
     line-height: 70px;
     margin: 0;
-    color: #075c40
+    color: #FE6F02
 }
 
 @media only screen and (max-width:540px) {
@@ -13880,7 +13880,7 @@ div#ccm-menu-click-proxy {
 
 .about-wrapper .what-pinza-container .desc-block h4 {
     font-size: 4.5rem;
-    color: #075c40;
+    color: #FE6F02;
     margin-top: 0
 }
 
@@ -13899,12 +13899,12 @@ div#ccm-menu-click-proxy {
 }
 
 .about-wrapper .what-pinza-container .desc-block h4 span {
-    color: #74c3d5
+    color: #fff
 }
 
 .about-wrapper .what-pinza-container .desc-block p {
     font-size: 1.25rem;
-    color: #075c40;
+    color: #FE6F02;
     font-family: GothamBook, sans-serif;
     line-height: 28px;
     margin-bottom: 0;
@@ -14064,7 +14064,7 @@ div#ccm-menu-click-proxy {
 .about-wrapper .mission-vision-container .mission-text h4,
 .about-wrapper .mission-vision-container .vision-text h4 {
     font-size: 4.5rem;
-    color: #74c3d5;
+    color: #FE6F02;
     line-height: 3.75rem
 }
 
@@ -14082,7 +14082,7 @@ div#ccm-menu-click-proxy {
     font-size: 1.25rem;
     font-family: GothamBook, sans-serif;
     line-height: 28px;
-    color: #075c40
+    color: #fff
 }
 
 @media only screen and (max-width:540px) {
@@ -14124,7 +14124,7 @@ div#ccm-menu-click-proxy {
 }
 
 .about-wrapper .mission-vision-container .vision-text h4 {
-    color: #075c40
+    color: #FE6F02
 }
 
 .about-wrapper .mission-vision-container .pizza-slice1 {
@@ -14612,7 +14612,7 @@ div#ccm-menu-click-proxy {
     font-size: 8.125rem;
     margin: 0;
     line-height: 105px;
-    color: #075c40
+    color: #FE6F02
 }
 
 @media only screen and (min-width:1850px) {
@@ -14656,10 +14656,10 @@ div#ccm-menu-click-proxy {
 }
 
 .about-wrapper .less-calorie-container .desc-block h3 span {
-    color: #075c40;
+    color: #fff;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #075c40
+    -webkit-text-stroke-color: #fff
 }
 
 .about-wrapper .less-calorie-container .desc-block p {
@@ -14667,7 +14667,7 @@ div#ccm-menu-click-proxy {
     font-family: GothamBook, sans-serif;
     line-height: 27px;
     padding-top: 79px;
-    color: #075c40
+    color: #fff
 }
 
 @media only screen and (max-width:768px) {
@@ -14924,7 +14924,7 @@ div#ccm-menu-click-proxy {
     font-size: 8.125rem;
     margin: 0;
     line-height: 104px;
-    color: #075c40
+    color: #FE6F02
 }
 
 @media only screen and (max-width:1024px) {
@@ -14945,7 +14945,7 @@ div#ccm-menu-click-proxy {
     font-size: 1.25rem;
     font-family: GothamBook, sans-serif;
     line-height: 27px;
-    color: #075c40
+    color: #fff
 }
 
 @media only screen and (max-width:540px) {
@@ -18800,7 +18800,7 @@ body.top .listing-detail-page .pizza-wrapper .image-wrapper {
 .pizza-img .img-with-text .round {
     width: 137px;
     height: 137px;
-    background: #fd0;
+    background: #000;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -18831,7 +18831,7 @@ body.top .listing-detail-page .pizza-wrapper .image-wrapper {
 
 .pizza-img .img-with-text .round p {
     font-size: 1.625rem;
-    color: #075c40;
+    color: #fff;
     font-family: KnockoutCruiserweight, sans-serif;
     padding-top: 2px
 }
@@ -19036,7 +19036,7 @@ body.top .listing-detail-page .pizza-wrapper .image-wrapper {
 .pizza-img .img-with-text.central-img .round {
     width: 203px;
     height: 203px;
-    background: #fd0;
+    background: #000;
     border-radius: 50%;
     position: absolute;
     top: 57%;
@@ -19049,7 +19049,7 @@ body.top .listing-detail-page .pizza-wrapper .image-wrapper {
     padding: 40px 20px 38px;
     text-align: center;
     line-height: 30px;
-    color: #075c40
+    color: #fff
 }
 
 .pizza-img .img-with-text.central-img .round:hover {
@@ -19790,12 +19790,12 @@ footer .bottom-footer .social-media svg:nth-of-type(2) {
 }
 
 @media only screen and (max-width:1024px) {
-    footer .bottom-footer .copyright-info {
+    footer .bottom-footer .copyright-infoo {
         display: none
     }
 }
 
-footer .bottom-footer .copyright-info p {
+footer .bottom-footer .copyright-infoo p {
     font-size: .875rem;
     color: #fff;
     font-family: GothamLight, sans-serif;
@@ -20807,7 +20807,7 @@ footer .bottom-footer .copyright-info.mobile p {
 
 .header-outer .header_menu_wrapper .nav li a {
     padding: 9px 0 7px;
-    margin: 0 15px;
+    margin: 0 150px;
     border-bottom: 4px dashed transparent
 }
 
@@ -20881,7 +20881,6 @@ footer .bottom-footer .copyright-info.mobile p {
 .header-outer .mobile-menu {
     width: 46px;
     height: 46px;
-    border: 2px solid #075c40;
     border-radius: 50%;
     padding: 9px;
     position: relative;
@@ -21393,11 +21392,10 @@ header.sticky .header-outer .logo img {
 .mobile-nav.active .mobile-menu {
     width: 46px;
     height: 46px;
-    border: 2px solid #075c40;
     border-radius: 50%;
     padding: 9px;
     position: relative;
-    top: -2px
+    top: 10px
 }
 
 .mobile-nav.active .mobile-menu .nav-icon,
